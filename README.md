@@ -12,6 +12,6 @@ The Organisation for Economic Co-operation and Development (OECD) developed the 
 - Pooled Linear Regression Analysis - Statistical analysis for resting relationships between target variables and predictors across countries over time
 
 ## Sources
-PISA scores: http://www.oecd.org/pisa/data/
-OECD Data Portal: https://pisadataexplorer.oecd.org/ide/idepisa/report.aspx.
-Social and economic country data: https://datacatalog.worldbank.org/dataset/world-development-indicators) 
+- PISA scores: http://www.oecd.org/pisa/data/
+- OECD Data Portal: https://pisadataexplorer.oecd.org/ide/idepisa/report.aspx.
+- Social and economic country data: https://datacatalog.worldbank.org/dataset/world-development-indicators) 
